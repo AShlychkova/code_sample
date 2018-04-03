@@ -1,2 +1,1 @@
-# code_sample
-Some code samples
+Примеры кода (в основном из домашних заданий)
